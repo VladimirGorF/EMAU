@@ -1,0 +1,21 @@
+.par {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fir {
+    background-color: aquamarine;
+}
+
+.sec {
+    background-image: url('images/bg.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.thi {
+    background-color: bisque;
+}
